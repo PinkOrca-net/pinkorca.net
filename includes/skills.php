@@ -6,7 +6,7 @@
         <span class="text-lg text-[#f4abc4]">Web development</span>
         <p>• PHP, MySQL, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, jQuery &...</p>
         <span class="text-lg text-[#f4abc4]">Programming</span>
-        <p>• GoLang(learning), Python, Bash, C#(CLI) &...</p>
+        <p>• Go(learning), Python, Bash, C#(CLI) &...</p>
         <span class="text-lg text-[#f4abc4]">Graphic design</span>
         <p>• Adobe Photoshop, Adobe Illustrator &...</p>
         <span class="text-lg text-[#f4abc4]">Language</span>

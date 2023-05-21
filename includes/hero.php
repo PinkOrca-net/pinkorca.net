@@ -1,5 +1,5 @@
 <!-- Hero section -->
-<section class="flex flex-col items-center justify-between p-4 gap-y-8 md:flex-row md:gap-x-4 md:gap-y-0">
+<section class="flex flex-col items-center justify-between py-4 gap-y-8 md:flex-row md:gap-x-4 md:gap-y-0 sm:px-4">
 
     <!-- Right side -->
     <div class="flex flex-col items-center md:w-1/2">

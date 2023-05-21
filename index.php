@@ -11,15 +11,21 @@
     <title>Pink Orca | پینک اورکا</title>
 </head>
 <body class="bg-slate-900">
+    
 
     <!-- Main Container -->
-    <main class="flex flex-col w-full gap-8 px-4 text-white max-w-screen-2xl">
+    <main class="flex flex-col w-full gap-12 px-4 text-white max-w-screen-2xl">
 
         <?php
+        session_start();
+        $token = md5(uniqid(rand(), TRUE));
+        $_SESSION['csrf_token'] = $token;
+        
         include_once('./includes/pre-loader.php');
         include_once('./includes/navbar.php');
         include_once('./includes/hero.php');
         include_once('./includes/skills.php');
+        include_once('./includes/anonymous-message.php');
         include_once('./includes/social-links.php');
         include_once('./includes/footer.php');
         ?>

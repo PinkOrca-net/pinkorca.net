@@ -1,5 +1,5 @@
 <!-- Social Links -->
-<section class="flex flex-col items-center mx-auto ucs md:max-w-3xl">
+<section class="flex flex-col items-center py-4 mx-auto ucs md:max-w-3xl sm:px-4">
     <div class="flex flex-col items-center justify-between gap-2 md:flex-row md:gap-6">
         <h4 class="text-xl lg:text-2xl">پیوست‌ها</h4>
         <div class="flex justify-center gap-x-2 sm:gap-x-4">
