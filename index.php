@@ -14,7 +14,7 @@
     
 
     <!-- Main Container -->
-    <main class="flex flex-col w-full gap-12 px-4 text-white max-w-screen-2xl">
+    <main class="flex flex-col w-full gap-12 px-4 text-white h-fit max-w-screen-2xl">
 
         <?php
         session_start();
